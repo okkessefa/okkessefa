@@ -21,7 +21,7 @@ Learning advanced English (C1–C2) and Spanish (A1).
 ## 🚧 I’m currently working on
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/okkessefa/okkessefa/main/assets/binary_tree_project.png" width="300" alt="Binary Tree Project">
+  <img src="https://raw.githubusercontent.com/okkessefa/okkessefa/main/assets/binary_tree_project.png" width="500" alt="Binary Tree Project">
 </p>
 
 ---
@@ -29,11 +29,11 @@ Learning advanced English (C1–C2) and Spanish (A1).
 ## 🌱 I’m currently learning
 
 <p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/128/555/555526.png" width="40" title="Chinese 🇨🇳"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/323/323304.png" width="40" title="Spanish 🇪🇸"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Academic%20English-C1–C2-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Spanish-A1-yellow?style=for-the-badge"/>
 </p>
 
 ---
@@ -44,17 +44,6 @@ Learning advanced English (C1–C2) and Spanish (A1).
   <img src="https://img.shields.io/badge/Algorithm%20Projects-in%20C++-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Structures-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Recursion%20Tasks-✔️-purple?style=for-the-badge"/>
-</p>
-
----
-
-## ✍️ I’ve written about
-
-<p align="center">
-  <img src="https://via.placeholder.com/140x80.png?text=Binary+Trees" />
-  <img src="https://via.placeholder.com/140x80.png?text=Recursion+Explained" />
-  <img src="https://via.placeholder.com/140x80.png?text=English+for+Engineers" />
-  <img src="https://via.placeholder.com/140x80.png?text=Java+Beginners+Guide" />
 </p>
 
 ---
@@ -72,4 +61,12 @@ Learning advanced English (C1–C2) and Spanish (A1).
 <p align="center">
   <a href="mailto:oksekesfackn53@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://discord.com/users/YOUR-ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
+
+---
+
+## 🔗 Scan to Contact
+
+<p align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=mailto:oksekesfackn53@gmail.com" alt="QR Code for Contact">
 </p>
