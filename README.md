@@ -14,14 +14,14 @@
 
 From Turkey 🇹🇷 | Passionate about systems programming, algorithm design, and academic writing.  
 Working on mastering recursion, trees, and memory-efficient data structures.  
-Learning advanced English (C1–C2) and Spanish (A1).
+Learning advanced English (C1–C2), Spanish (A1), and Mandarin Chinese (A1).
 
 ---
 
 ## 🚧 I’m currently working on
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/okkessefa/okkessefa/main/assets/binary_tree_project.png" width="500" alt="Binary Tree Project">
+  <img src="https://raw.githubusercontent.com/okkessefa/okkessefa/main/assets/bst_code_preview.png" width="700" alt="Binary Tree Validation in C++">
 </p>
 
 ---
@@ -29,8 +29,8 @@ Learning advanced English (C1–C2) and Spanish (A1).
 ## 🌱 I’m currently learning
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/128/555/555526.png" width="40" title="Chinese 🇨🇳"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/323/323304.png" width="40" title="Spanish 🇪🇸"/>
+  <img src="https://flagcdn.com/w40/cn.png" width="40" title="Chinese 🇨🇳"/>
+  <img src="https://flagcdn.com/w40/es.png" width="40" title="Spanish 🇪🇸"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
