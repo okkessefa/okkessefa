@@ -1,26 +1,75 @@
-## Hi there 👋, I’m Ökkeş Sefa Coşkun
+<h1 align="center">Hi there 👋, I’m Ökkeş Sefa Coşkun</h1>
 
-- 🔭 I’m currently working on mastering algorithms, data structures, and binary tree systems using C++ and Python.
-- 🌱 I’m currently learning Java and improving my academic English (C1–C2 level) and beginner Spanish (A1).
-- 👯 I’m looking to collaborate on algorithmic challenges, academic coding projects, and open-source C++/Java libraries.
-- 🤔 I’m looking for help with clean code architecture, memory optimization, and advanced recursion techniques.
-- 💬 Ask me about software design, algorithmic thinking, problem-solving in C++, or technical writing in English.
-- 📫 How to reach me: oksekesfackn53@gmail.com or via GitHub issues/discussions.
+<p align="center">
+  <a href="https://youtube.com"><img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://medium.com"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://spotify.com"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a>
+</p>
 
-> "Build systems. Write clearly. Think deeply." — My personal motto as an engineer in progress.
+---
 
+## 📘 About Me
 
-<!--
-**okkessefa/okkessefa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+From Turkey 🇹🇷 | Passionate about systems programming, algorithm design, and academic writing.  
+Working on mastering recursion, trees, and memory-efficient data structures.  
+Learning advanced English (C1–C2) and Spanish (A1).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚧 I’m currently working on
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/okkessefa/okkessefa/main/assets/binary_tree_project.png" width="300" alt="Binary Tree Project">
+</p>
+
+---
+
+## 🌱 I’m currently learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Academic%20English-C1–C2-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Spanish-A1-yellow?style=for-the-badge"/>
+</p>
+
+---
+
+## 🧠 I’ve contributed to
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Algorithm%20Projects-in%20C++-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Structures-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Recursion%20Tasks-✔️-purple?style=for-the-badge"/>
+</p>
+
+---
+
+## ✍️ I’ve written about
+
+<p align="center">
+  <img src="https://via.placeholder.com/140x80.png?text=Binary+Trees" />
+  <img src="https://via.placeholder.com/140x80.png?text=Recursion+Explained" />
+  <img src="https://via.placeholder.com/140x80.png?text=English+for+Engineers" />
+  <img src="https://via.placeholder.com/140x80.png?text=Java+Beginners+Guide" />
+</p>
+
+---
+
+## ☕ How to support me
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/>
+</p>
+
+---
+
+## 📫 How to reach me
+
+<p align="center">
+  <a href="mailto:oksekesfackn53@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://discord.com/users/YOUR-ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
