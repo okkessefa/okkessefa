@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋, I’m Ökkeş Sefa Coşkun
+
+- 🔭 I’m currently working on mastering algorithms, data structures, and binary tree systems using C++ and Python.
+- 🌱 I’m currently learning Java and improving my academic English (C1–C2 level) and beginner Spanish (A1).
+- 👯 I’m looking to collaborate on algorithmic challenges, academic coding projects, and open-source C++/Java libraries.
+- 🤔 I’m looking for help with clean code architecture, memory optimization, and advanced recursion techniques.
+- 💬 Ask me about software design, algorithmic thinking, problem-solving in C++, or technical writing in English.
+- 📫 How to reach me: [YourEmail@example.com] or via GitHub issues/discussions.
+
+> "Build systems. Write clearly. Think deeply." — My personal motto as an engineer in progress.
+
 
 <!--
 **okkessefa/okkessefa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
