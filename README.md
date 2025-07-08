@@ -17,13 +17,17 @@ Working on mastering recursion, trees, and memory-efficient data structures.
 Learning advanced English (C1–C2), Spanish (A1), and Mandarin Chinese (A1).
 
 ---
-
 ## 🚧 I’m currently working on
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/okkessefa/okkessefa/main/assets/bst_code_preview.png" width="700" alt="Binary Tree Validation in C++">
+  <img src="https://raw.githubusercontent.com/okkessefa/okkessefa/main/assets/bst_code_preview.png" width="360" alt="Binary Search Tree Validation"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Hash_Table_Example.svg" width="360" alt="Hash Table Example"/>
 </p>
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dijkstra_Animation.gif/640px-Dijkstra_Animation.gif" width="360" alt="Dijkstra’s Algorithm Animation"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Sorting_quicksort_anim.gif/400px-Sorting_quicksort_anim.gif" width="360" alt="Quicksort Visualization"/>
+</p>
 ---
 
 ## 🌱 I’m currently learning
