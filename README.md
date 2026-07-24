@@ -186,8 +186,17 @@ Use AI as an engineering assistant, not as a replacement for reasoning.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=okkessefa&show_icons=true&theme=transparent"/>
-  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs?username=okkessefa&layout=compact&theme=transparent"/>
+  <a href="https://github.com/okkessefa">
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=okkessefa&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=transparent" alt="Ökkeş Sefa's GitHub statistics"/>
+  </a>
+
+  <a href="https://github.com/okkessefa?tab=repositories">
+    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=okkessefa&layout=compact&langs_count=6&hide_border=true&theme=transparent" alt="Most-used languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>Language percentages reflect repository code composition, not overall proficiency.</sub>
 </p>
 
 ---
