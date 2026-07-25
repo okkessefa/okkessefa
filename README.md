@@ -138,7 +138,7 @@ I am strengthening my ability to analyse algorithms, select appropriate data str
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dart,java,cpp,python,javascript"/>
+  <img src="https://skillicons.dev/icons?i=dart,java,cpp,python"/>
 </p>
 
 ### Frameworks and Tools
